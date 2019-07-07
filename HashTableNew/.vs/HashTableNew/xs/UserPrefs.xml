@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{AD3355A9-E8DD-443A-825E-CF4534FE645C}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="HashTableNew/Program.cs">
+    <Files>
+      <File FileName="HashTableNew/Program.cs" Line="11" Column="16" />
+      <File FileName="HashTableNew/HashTableWithLinkedList.cs" Line="127" Column="39" />
+      <File FileName="HashTableNew/SortableObject.cs" Line="37" Column="10" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.HashTableNew PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,6 @@
+/home/justin/Projects/BucketSortList/BucketSortList/bin/Debug/BucketSortList.exe
+/home/justin/Projects/BucketSortList/BucketSortList/bin/Debug/BucketSortList.pdb
+/home/justin/Projects/BucketSortList/BucketSortList/obj/x86/Debug/BucketSortList.csprojAssemblyReference.cache
+/home/justin/Projects/BucketSortList/BucketSortList/obj/x86/Debug/BucketSortList.csproj.CoreCompileInputs.cache
+/home/justin/Projects/BucketSortList/BucketSortList/obj/x86/Debug/BucketSortList.exe
+/home/justin/Projects/BucketSortList/BucketSortList/obj/x86/Debug/BucketSortList.pdb

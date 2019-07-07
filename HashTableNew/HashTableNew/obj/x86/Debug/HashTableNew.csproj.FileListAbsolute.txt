@@ -1,0 +1,6 @@
+/home/justin/Projects/HashTableNew/HashTableNew/bin/Debug/HashTableNew.exe
+/home/justin/Projects/HashTableNew/HashTableNew/bin/Debug/HashTableNew.pdb
+/home/justin/Projects/HashTableNew/HashTableNew/obj/x86/Debug/HashTableNew.csprojAssemblyReference.cache
+/home/justin/Projects/HashTableNew/HashTableNew/obj/x86/Debug/HashTableNew.csproj.CoreCompileInputs.cache
+/home/justin/Projects/HashTableNew/HashTableNew/obj/x86/Debug/HashTableNew.exe
+/home/justin/Projects/HashTableNew/HashTableNew/obj/x86/Debug/HashTableNew.pdb

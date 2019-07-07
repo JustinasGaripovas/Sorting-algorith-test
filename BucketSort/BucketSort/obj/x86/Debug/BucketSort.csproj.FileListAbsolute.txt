@@ -1,0 +1,6 @@
+/home/justin/Projects/BucketSort/BucketSort/obj/x86/Debug/BucketSort.csprojAssemblyReference.cache
+/home/justin/Projects/BucketSort/BucketSort/obj/x86/Debug/BucketSort.csproj.CoreCompileInputs.cache
+/home/justin/Projects/BucketSort/BucketSort/bin/Debug/BucketSort.exe
+/home/justin/Projects/BucketSort/BucketSort/bin/Debug/BucketSort.pdb
+/home/justin/Projects/BucketSort/BucketSort/obj/x86/Debug/BucketSort.exe
+/home/justin/Projects/BucketSort/BucketSort/obj/x86/Debug/BucketSort.pdb

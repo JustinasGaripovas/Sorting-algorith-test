@@ -1,0 +1,6 @@
+/home/justin/Projects/HeapSort_OP/HeapSort_OP/bin/Debug/HeapSort_OP.exe
+/home/justin/Projects/HeapSort_OP/HeapSort_OP/bin/Debug/HeapSort_OP.pdb
+/home/justin/Projects/HeapSort_OP/HeapSort_OP/obj/x86/Debug/Heapsort.csproj.CoreCompileInputs.cache
+/home/justin/Projects/HeapSort_OP/HeapSort_OP/obj/x86/Debug/HeapSort_OP.exe
+/home/justin/Projects/HeapSort_OP/HeapSort_OP/obj/x86/Debug/HeapSort_OP.pdb
+/home/justin/Projects/HeapSort_OP/HeapSort_OP/obj/x86/Debug/Heapsort.csprojAssemblyReference.cache
